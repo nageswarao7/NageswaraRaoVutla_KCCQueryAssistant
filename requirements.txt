@@ -1,0 +1,6 @@
+pandas
+streamlit
+langchain
+sentence-transformers
+faiss-cpu
+requests

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "0",
+    "content": "Query: ASKED ABOUT FERTILIZER SPRAY FOR TOMATO?\nAnswer: Tomato puree 150 grams + mayonnaise 30 ml + Bavistin 30 grams / 12 liters of water should be mixed well.\nMeta: State=MAHARASHTRA, District=PARBHANI, Crop=Tomato"
+  },
+  {
+    "id": "1",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humid weather, cloudy skies, and the possibility of heavy rain with thunder has been predicted in some areas today. Minimum temperature 26\u00b0C, maximum 41\u00b0C.\nMeta: State=MAHARASHTRA, District=JALNA, Crop=Others"
+  },
+  {
+    "id": "2",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Heavy rain is expected in the next 5 days in the state, and there is a possibility of lightning. Minimum temperature - 42 degrees Celsius and maximum - 27 degrees Celsius, wind speed - up to 17 kilometers per hour. Due to heavy rainfall, take precautions, stay in safe places, avoid going near electric poles, and follow the instructions given by the administration.\nMeta: State=MAHARASHTRA, District=JALGAON, Crop=Others"
+  },
+  {
+    "id": "3",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Havaman Vibhagachya Mahitinu Saar Apalya Talukyatil Havaman Andaj: Yetya 5 divasat vatavarn thagal raahil va pavsachi shakyat raahil. Tapman - kimaana 24 ansh Celsius aani kamal 39 ansh Celsius. Varyacha veg 12 kimi/taasi. Havaman Andajanusar perani, khat vyavasthapan, pik sanrakshan, pik kadhi sinchan aadi babinche niyojan karave. Dhanyavaad!\nMeta: State=MAHARASHTRA, District=AMRAVATI, Crop=Others"
+  },
+  {
+    "id": "4",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Taluka Havaman Andaj - Here is the probable weather forecast for today: partly cloudy sky is likely in most parts, temperature - minimum - 34\u00b0C to maximum - 44\u00b0C, wind speed - 11 kilometers/hour, to know the weather forecast for your area, give the name of the village, city, district, or state, and get the weather information of your area immediately.\nMeta: State=MAHARASHTRA, District=CHANDRAPUR, Crop=Others"
+  },
+  {
+    "id": "5",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Current weather forecast -- According to this latest update, the sky will remain partly cloudy, there is no possibility of rain, temperature - minimum - 24\u00b0C and maximum - 40\u00b0C, humidity - 25%, wind speed - 11 kilometers/hour, do not stay in open areas during the current weather, wear a cap, keep a wet cloth on your head, use sunglasses, and drink enough water to avoid dehydration.\nMeta: State=MAHARASHTRA, District=YEVATMAL, Crop=Others"
+  },
+  {
+    "id": "6",
+    "content": "Query: sugarcane fertilizer dose ?\nAnswer: Us Khat Dose -- DAP two bags + Urea one bag + Potash one bag per acre should be given.\nMeta: State=MAHARASHTRA, District=BEED, Crop=Sugarcane (Noble Cane)"
+  },
+  {
+    "id": "7",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Malaga weather forecast - According to this latest update, there will be partly cloudy skies, light winds, temperature - minimum 23\u00b0C, maximum 33\u00b0C, humidity will be around 18 kilometers/hour, weather forecast information is given for your reference, but before going out, check the latest updates on the website, newspaper, or other reliable sources.\nMeta: State=MAHARASHTRA, District=WASHIM, Crop=Others"
+  },
+  {
+    "id": "8",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Karjat Taluka Weather Information -- According to this latest update, the sky will be partly cloudy, no chance of rain, temperature - minimum - 24\u00b0C, maximum - 40\u00b0C, humidity - 25%, wind speed - 11 kilometers/hour, for weather information contact the following: Pani Dene, Perani, Khat Matra, Peak Protection, and other agricultural advice, contact the local agriculture office.\nMeta: State=MAHARASHTRA, District=WARDHA, Crop=Others"
+  },
+  {
+    "id": "9",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Vani Bazar Taluka Havaman Andaj Yetya Athavadyamadhye Vatavaran Thanda Aahe Ani Halka Te Madhyam Pavsachi Shakyata Aahe, Aajche Tapman Jastit Jast - 23 Angshe Celsius, Kamiit Kami - 13 Angshe Celsius, Varyacha Veg - 12 Kilometer Prati Tas Aahe.\nMeta: State=MAHARASHTRA, District=YEVATMAL, Crop=Others"
+  },
+  {
+    "id": "11",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Due to the cyclone warning, you are advised not to go to the seashore or any low-lying areas. Today\u2019s temperature \u2013 minimum 42 degrees Celsius and maximum 29 degrees Celsius, wind speed \u2013 up to 25 kilometers per hour. Due to the cyclone warning, please take care, stay safe, keep children and elderly people at home, and follow the instructions given by the authorities.\nMeta: State=MAHARASHTRA, District=AHMADNAGAR, Crop=Others"
+  },
+  {
+    "id": "12",
+    "content": "Query: farmer asked about Krishi Vigyan Kendra, Ambajogai contact number \nAnswer: Krishi Vijnan Kendra, Ambajogai contact number 02446 258 557\nMeta: State=MAHARASHTRA, District=BEED, Crop=Others"
+  },
+  {
+    "id": "13",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Taluka Havaman Andaj - Yetya Athavadyat Vatawaran Thagal Rahil, Pavsachi Shakyata Nahi. Jastit Jast Tapman 44\u00b0C, Kimit Kimi Tapman 30\u00b0C Rahil, Hawaycha Veg 19 Kimi/taas.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "14",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Karanja weather forecast: Today, partly cloudy weather is expected in the district and surrounding areas. Maximum = about 31\u00b0C, minimum about 23\u00b0C. Humidity = about 84%, minimum 70%. Wind speed will be 11 km/h from the east direction.\nMeta: State=MAHARASHTRA, District=WASHIM, Crop=Others"
+  },
+  {
+    "id": "15",
+    "content": "Query: SEED TREATMENT TO SOYABEAN  ?\n\nAnswer: Soyabin - For 1 acre, 2 grams Thayaram Nantar Rayzobium 22 grams + Sphurad Virghalana Jeevanuk Samvardhak 22 grams + 150 grams jaggery + 1 liter water, mix all these together and coat the seeds before sowing.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Soybean (bhat)"
+  },
+  {
+    "id": "16",
+    "content": "Query: Farmer asked price detail of Soyabean in Washim mandi.\nAnswer: 04/06/2022\nMarket: Washim\nCommodity: Soybean\n(Modal Price): 7000/Quintal\nMeta: State=MAHARASHTRA, District=AKOLA, Crop=Soybean (bhat)"
+  },
+  {
+    "id": "17",
+    "content": "Query: FARMER ASKING ABOUT PM KISAN YOJNA ?\n\nAnswer: PM Kisan Yojana is an important initiative of the central government.\nMeta: State=MAHARASHTRA, District=AHMADNAGAR, Crop=Others"
+  },
+  {
+    "id": "18",
+    "content": "Query: FARMER ASKED ABOUT VARIETIES OF COTTON ?\n\nAnswer: Kapus - Jati - Do Brent Bahubali Ajit - 122 EMRC \u2013 7341 Brahma Malkia Bhakti Ankur 06 Jackpot Chanakya Mauli\nMeta: State=MAHARASHTRA, District=AHMADNAGAR, Crop=Cotton (Kapas)"
+  },
+  {
+    "id": "19",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Heavy rainfall warning, you may experience continuous rain for the next 5 days, there is a possibility of flooding. The minimum temperature will be 42 degrees Celsius and the maximum temperature will be 27 degrees Celsius, wind speed will be around 17 kilometers per hour. Due to heavy rainfall warning, take care, stay safe, keep necessary items, and follow the instructions given by the administration.\nMeta: State=MAHARASHTRA, District=AURANGABAD, Crop=Others"
+  },
+  {
+    "id": "20",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Ahmadnagar district Shrirampur taluka weather forecast - Here is the latest weather update for the next few hours in your area:\n\nMaximum temperature = 38 (\u00b0C)\nMinimum temperature = 23 (\u00b0C)\nMaximum humidity = 55%\nMinimum humidity = 17%\nWind speed = 20 km/h\nMeta: State=MAHARASHTRA, District=AHMADNAGAR, Crop=Others"
+  },
+  {
+    "id": "21",
+    "content": "Query: VARIETIES OF COTTON ?\n\nAnswer: -Kapus -Jati -Do Brent Bahubali Ajit - 133 MRC \u2013 73\nMeta: State=MAHARASHTRA, District=YEVATMAL, Crop=Cotton (Kapas)"
+  },
+  {
+    "id": "22",
+    "content": "Query: Farmer asked query on Weather\nAnswer: The final result of the HSC examination will be announced on the official website within 10 days after the completion of the HSC examination. The answer sheets will be checked in a strict and transparent manner, so students are requested not to believe in any rumors. The minimum passing marks are 35 out of 100 in each subject. The highest marks are 40 out of 100 in each subject. The result will be declared on 22nd May at 1:00 PM. The HSC result can be checked online by entering the seat number on the official website, and students are advised to take a printout of the result for future reference. Thank you.\nMeta: State=MAHARASHTRA, District=WASHIM, Crop=Others"
+  },
+  {
+    "id": "23",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Sangli district weather forecast - Today, due to the presence of a low-pressure area over the Arabian Sea, there is a possibility of light to moderate rain in some places in the district. Temperature - Minimum - 22\u00b0C, Maximum - 35\u00b0C, wind speed 23 km/h. / Direction (The direction of the wind may change due to local weather conditions.) Thank you.\nMeta: State=MAHARASHTRA, District=HINGOLI, Crop=Others"
+  },
+  {
+    "id": "24",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Manwat taluka weather forecast - According to the latest available information, the weather is likely to remain partly cloudy, with a chance of light rain in some places today. Today's temperature - minimum - 33\u00b0C and maximum - 40\u00b0C, wind speed - 14 kilometers/hour, weather forecast for the next few days: rain, thunder, hail, dust storms, strong winds, and lightning are likely in some places.\nMeta: State=MAHARASHTRA, District=PARBHANI, Crop=Others"
+  },
+  {
+    "id": "25",
+    "content": "Query: Fertilizer dose for soybean ?\n\nAnswer: Soyabean field - spraying time 18:20:06- 40 kilos + 20 kilos Muriate of Potash + Sulphur 10 kilos / apply once.\nMeta: State=MAHARASHTRA, District=PARBHANI, Crop=Soybean (bhat)"
+  },
+  {
+    "id": "26",
+    "content": "Query: Farmer asked price detail of Cotton in Jamner mandi\nAnswer: 02/02/2028 - Kapus Bajarbhav - Jamner Market - Minimum Price - 6000 Rs/Quintal, Maximum Price - 8000 Rs/Quintal, Average Price - 7300 Rs/Quintal. Thank you.\nMeta: State=MAHARASHTRA, District=BEED, Crop=Others"
+  },
+  {
+    "id": "27",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Taluka Hiwara Andaj - Yetya athavadyat dhaga\u1e37 vaatavar\u1e47 raahil, halkya - madhyam paavasachi shakyat\u0101 aahe.\n\nTaapmaan (Ansh Celsius) - Jastit jast - 42, a\u1e47i kamiit kami - 35.\n\nV\u0101\u1e6dy\u0101ch\u0101 veg (kimi/taas) - 18, dhanyavaad.\nMeta: State=MAHARASHTRA, District=BULDANA, Crop=Others"
+  },
+  {
+    "id": "28",
+    "content": "Query: ASKED ABOUT PLANTING DISTANCE OF BRINJAL CROP ? \nAnswer: Pikache nav-vaangi (May-June and August-September and December-January)\nLagvadiche antar (cm)- 45*20 or 45*45 or 60*45\nSudharit jati-, Ruchira, Pusa Kranti,\nHirvi phale - Phule Harit, Phule Arjun\nJambhala - Manjari Gota, Krishna, Pusa Purple Round\nMeta: State=MAHARASHTRA, District=SOLAPUR, Crop=Brinjal"
+  },
+  {
+    "id": "29",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Heavy rainfall warning, your area is likely to receive heavy to very heavy rainfall for the next 5 days, accordingly, be alert. Today's temperature - minimum - 23 degrees Celsius and maximum - 30 degrees Celsius, wind speed - up to 22 kilometers per hour. Due to heavy rainfall warning, take necessary precautions, stay at home as much as possible, avoid unnecessary travel, and keep listening to information from the administration.\nMeta: State=MAHARASHTRA, District=BULDANA, Crop=Others"
+  },
+  {
+    "id": "30",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Malakapur Taluka Weather Forecast - Today, due to the influence of a low-pressure area, there is a possibility of light to moderate rain in some places in the district. Temperature - Minimum - 22\u00b0C, Maximum - 35\u00b0C, Wind speed 23 km/h. / Rainfall. (There is a possibility of heavy rainfall in some places in the district due to the effect of the monsoon.) Thank you.\nMeta: State=MAHARASHTRA, District=BULDANA, Crop=Others"
+  },
+  {
+    "id": "31",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humid weather, mostly cloudy skies, occasional light to moderate rain showers are likely in most parts of the state. Maximum temperature around 32\u00b0C, minimum around 22\u00b0C. The relative humidity will be 81 percent in the morning.\nMeta: State=MAHARASHTRA, District=NAGPUR, Crop=Others"
+  },
+  {
+    "id": "32",
+    "content": "Query: Farmer asked price detail of Onion in Pune mandi.\nAnswer: 05/06/2022\nMarket: Pune\nCommodity: Onion\n(Modal Price): 1000/Quintal\nMeta: State=MAHARASHTRA, District=BEED, Crop=Others"
+  },
+  {
+    "id": "33",
+    "content": "Query: Farmer asked price detail of Onion in Lasalgaon mandi.\nAnswer: 04/06/2022  \nSugarcane procurement price - Lasalgaon Market - Quantity less - 561 Rs/quintal, Maximum price sold - 1418 Rs/quintal, Average price - 1130 Rs/quintal. Thank you.\nMeta: State=MAHARASHTRA, District=AHMADNAGAR, Crop=Others"
+  },
+  {
+    "id": "34",
+    "content": "Query: Farmer asked query on Weather\nAnswer: According to the latest information, today the temperature in many parts of the state has dropped significantly. In some parts of Vidarbha, the minimum temperature has dropped to the lowest level of the season. Currently, the minimum temperature in Rahil of Dhule district has dropped to the lowest level of the season. Today, the minimum temperature in Rahil is between 25 degrees Celsius and 35 degrees Celsius, and in some places, it may drop even further. In some places, the temperature may drop to 3 degrees Celsius, while in some places, the temperature may drop to 50 to 60 degrees Fahrenheit.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "35",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Due to the recent rainfall, the water level of the Kinwat river has increased. Today, the water level has reached the danger mark. The water level of the river at the main bridge in the city has risen to 25 to 35 feet, and the flow of water is very strong. Therefore, the administration has appealed to the citizens not to go near the river. If the rainfall continues, the water level may rise further and the danger level may reach 50 to 60 feet.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "36",
+    "content": "Query: Blight attack in sugarcane crop ?   \n\nAnswer: Pikateel crop should be protected from diseases by spraying Thiofinet Methyl 70% WDG 13 grams / 13 liters of water (foliar spray).\nMeta: State=MAHARASHTRA, District=OSMANABAD, Crop=Sugarcane (Noble Cane)"
+  },
+  {
+    "id": "37",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Climate information for today: Today, partly cloudy weather is expected in most areas. Maximum = around 29\u00b0C, minimum 20\u00b0C. Humidity = around 83%, minimum 70%. Wind speed will be 11 km/h from the southwest direction.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "38",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humane warning, due to the increase in temperature, there is a possibility of heatwave in some areas. The maximum temperature may reach up to 44\u00b0C and the minimum temperature may be around 31\u00b0C.\nMeta: State=MAHARASHTRA, District=YEVATMAL, Crop=Others"
+  },
+  {
+    "id": "39",
+    "content": "Query: VARIETIES OF SOYABEAN ?\n\nAnswer: Soyabean - variety - JS-335, DS 228 (full season), JS.9305, MAUS 71 (medium) full duration, full season\nMeta: State=MAHARASHTRA, District=PARBHANI, Crop=Soybean (bhat)"
+  },
+  {
+    "id": "40",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Due to the ongoing monsoon, the weather department has predicted heavy rainfall in some places, and in this context, an orange alert has been issued for some districts. The rainfall is expected to intensify. According to the latest updates, today's minimum temperature is 42 degrees Celsius and the maximum is 32 degrees Celsius. The wind speed will be around 18 kilometers per hour. Due to the monsoon, people are advised to take precautions, stay safe, avoid unnecessary travel, and follow the instructions given by the administration.\nMeta: State=MAHARASHTRA, District=WARDHA, Crop=Others"
+  },
+  {
+    "id": "41",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humane Vibhagachya Andajanuar Aplya Vadavani Talukyat, ya athavadyamadhe vatavaran ashatra thagal rahil. Aaj pavsachi shakyat ahe.. aajche tapman - kimal - 41 ansh celsius ani kiman - 27 ansh celsius, vatyacha veg - tasik 24 kilometer ahe. Humane Andajanuar perni, khat vyavasthapan, pik samrakshan, sinchan adi babinche niyojan karave.\nMeta: State=MAHARASHTRA, District=BEED, Crop=Others"
+  },
+  {
+    "id": "42",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Havaman Vibhagachya Andajanuasar, Aplya Pusht Talukyatat Yetya Athavadyat Vatavaran Anshtaha Thandal Rahil, Pavsachi Shakyata Nahi. Aajche Tapman Kamal 41 Ansh Celsius Ani Kimal 28 Ansh Celsius, Varyacha Veg - 27 Kilometer/Tas Rahil. Havaman Andajanuasar Perni, Khat Vyavasthapan, Pik Sanrakshan, Sinchan Adi Babinche Niyojan Karave. Dhanyavad!\nMeta: State=MAHARASHTRA, District=YEVATMAL, Crop=Others"
+  },
+  {
+    "id": "43",
+    "content": "Query: Farmer Asked About Contact Number of  Krishi Vigyan Kendra AHAMADNAGAR ?\n\nAnswer: Krishi Vij\u00f1an Kendra Ahmednagar, Sampark Kramank - 02422-252414\nMeta: State=MAHARASHTRA, District=NANDURBAR, Crop=Others"
+  },
+  {
+    "id": "44",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Today's weather forecast - There is no possibility of rain anywhere in the state as per the information received from the Meteorological Department. Temperature - Minimum 30\u00b0C, Maximum 44\u00b0C, wind speed 19 km/h. / Note: (This weather forecast is based on information received from the Meteorological Department, so please take your own decision before planning any important work.)\nMeta: State=MAHARASHTRA, District=WARDHA, Crop=Others"
+  },
+  {
+    "id": "45",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humane warning, due to the current weather conditions, there is a possibility of increased heat and heatwave in your area. The maximum temperature may reach around 30\u00b0C, and the minimum may be 43\u00b0C.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "46",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Taluka weather forecast - Here is the detailed weather forecast for your area, tomorrow - minimum temperature - 21\u00b0C, maximum - 35\u00b0C, wind speed - 12 km/h, tomorrow, along with the weather forecast, information about rainfall, temperature, soil moisture, pest infestation, crop condition, and other important information will also be provided.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "47",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humane warning, due to the current weather conditions, there is a possibility of heavy rainfall in some parts of the state. The minimum temperature is 24\u00b0C, and the maximum is 38\u00b0C.\nMeta: State=MAHARASHTRA, District=AURANGABAD, Crop=Others"
+  },
+  {
+    "id": "48",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Taluka main hospital statistics - This is the updated information as per the district administration, accuracy is not guaranteed.\nTotal (including all services) - Total beds - 39, currently occupied - 31.\nNumber of ventilators (occupied/total) - 14, currently functional.\nMeta: State=MAHARASHTRA, District=AURANGABAD, Crop=Others"
+  },
+  {
+    "id": "49",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Havaman Vibhagachya Mahitinuar Apalya Khandat Talukyatil Havamanacha Andaj Yetya 10 Divsat Vatavaran Thagal Rahil Tyachabar Suryaprakashit Asel, Pavsachi Shakyata Halakya Te Madhyam Svarupachi Vartavleli Aahe. Tapman - Kimmat 33 Ansh Celsius Ani Kamal 40 Ansh Celsius. Varyacha Veg 11 Kimi/Tasi Rahil. Havaman Andajanuar Khat Vyavasthapan, Sinchan Adi Babinche Niyojan Karave. Dhanyavad.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  },
+  {
+    "id": "50",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Havaman Andaj - According to the weather department, there is no sign of rain in the next few days. The minimum temperature is 41 degrees Celsius, the maximum temperature is 32 degrees Celsius. The wind speed will be 18 kilometers per hour.\nMeta: State=MAHARASHTRA, District=AKOLA, Crop=Others"
+  },
+  {
+    "id": "51",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Manwat Taluka Weather Information: Today, partly cloudy weather is expected in the region. Maximum = around 30\u00b0C, Minimum 20\u00b0C. Humidity = around 80%, Minimum 70%. Wind speed will be 11 km/h from the east direction.\nMeta: State=MAHARASHTRA, District=PARBHANI, Crop=Others"
+  },
+  {
+    "id": "52",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Havaman Andaj - According to the latest information from the weather department, there is no sign of rain in the state. The maximum temperature is 41 degrees Celsius, and the minimum temperature is 34 degrees Celsius. The wind speed will be up to 7 kilometers per hour.\nMeta: State=MAHARASHTRA, District=HINGOLI, Crop=Others"
+  },
+  {
+    "id": "53",
+    "content": "Query: Farmer asked query on Weather\nAnswer: Humane warning, due to the current weather conditions in your area, there is a possibility of heavy rainfall and thunderstorms. The maximum temperature is 25\u00b0C, and the minimum is 38\u00b0C.\nMeta: State=MAHARASHTRA, District=NANDED, Crop=Others"
+  }
+]
